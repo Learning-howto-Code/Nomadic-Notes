@@ -19,8 +19,8 @@ This project is being made for and funded by Hack Club's Highway program.
 
 
 ### Wiring Diagram:
-![wiring_diagram](https://github.com/user-attachments/assets/86c91727-bd95-479d-b317-77cb572b9d75)
 
+![wiring_diagram](https://github.com/user-attachments/assets/d16e5d13-0055-46d1-b30b-a695207192c5)
 
 
 
