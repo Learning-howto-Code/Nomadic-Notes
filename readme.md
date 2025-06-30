@@ -10,15 +10,20 @@ Nomadic Notes is the first ever pair of open source portable speakers. Nomadic n
 
 This project is being made for and funded by Hack Club's Highway program.
 
+
 ---
 
 ## Renderings
+![DIY Speakers pre-render](https://github.com/user-attachments/assets/987dfda2-115a-4a7a-a391-c62863df83d7)
+![DIY_Speakers V3 render](https://github.com/user-attachments/assets/03d08708-adbc-46e0-aafc-932aa7487806)
 
-### Speaker Render:
-![Speaker Render](images/DIY Speakers pre-render.png)
-![Speaker Render](images/DIY Speakers V3 render.png)
+
 ### Wiring Diagram:
-![Diagram](images/wiring_diagram.jpeg)
+
+![wiring_diagram](https://github.com/user-attachments/assets/d16e5d13-0055-46d1-b30b-a695207192c5)
+(Yes, I drew my wiring diagram, it's also writen out in diagram.md)
+
+
 
 ---
 
