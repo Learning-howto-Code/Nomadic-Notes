@@ -1,4 +1,7 @@
 *Generated pariatly wiht the use of AI to improve Clarity
+![wiring_diagram](https://github.com/user-attachments/assets/7319788e-9885-478d-abe1-2bd01f249366)
+
+
 Battery → IP5306
 
 Pack + → B+ pad
