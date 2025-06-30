@@ -21,6 +21,7 @@ This project is being made for and funded by Hack Club's Highway program.
 ### Wiring Diagram:
 
 ![wiring_diagram](https://github.com/user-attachments/assets/d16e5d13-0055-46d1-b30b-a695207192c5)
+(Yes, I drew my wiring diagram, it's also writen out in diagram.md)
 
 
 
