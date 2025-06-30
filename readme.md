@@ -15,8 +15,8 @@ This project is being made for and funded by Hack Club's Highway program.
 ## Renderings
 
 ### Speaker Render:
-![Speaker Render](images/speaker_render.jpeg)
-
+![Speaker Render](images/DIY Speakers pre-render.png)
+![Speaker Render](images/DIY Speakers V3 render.png)
 ### Wiring Diagram:
 ![Diagram](images/wiring_diagram.jpeg)
 
