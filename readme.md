@@ -48,6 +48,7 @@ View the BOM in google sheets here for live updates: https://docs.google.com/spr
 
 ---
 
+**Check out the BOM excel sheet for the hyperlinks for the exact sources I used and recomend
 ## Filament
 
 - Your choice
