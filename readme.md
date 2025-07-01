@@ -9,6 +9,8 @@ Nomadic Notes is the first ever pair of open source portable speakers. Nomadic n
 - A design-forward approach  
 
 This project is being made for and funded by Hack Club's Highway program.
+For any issues or questions, email me at jaketorohopkins@icloud.com, or DM me in the slack at Jake Hopkins
+View the BOM in google sheets here for live updates: https://docs.google.com/spreadsheets/d/1EUaRx9kYJ8l8ao9sxJfBVqmWhHC3KokLF9yOrveQJRE/edit?gid=0#gid=0
 
 
 ---
